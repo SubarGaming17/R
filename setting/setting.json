@@ -1,7 +1,7 @@
 {
 "self": false,
-"autoread": false,
-"autoketik": false,
+"autoread": true,
+"autoketik": true,
 "autovn": false,
 "OwnerNumber": "6285856575305",
 "OwnerName": "SubarGanzz",
